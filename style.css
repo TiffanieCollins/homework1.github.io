@@ -28,7 +28,7 @@ footer {
 li { 
     display:inline;
     text-align:right;
-
+    width:auto;
 }
 
 h1 {
